@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Amadeja's GitHub stats](https://github-readme-stats.vercel.app/api?username=amadejaop&show_icons=true&title_color=c20052&icon_color=c20052&bg_color=ffe9f2&text_color=9b0041&hide=issues,contribs)](https://github.com/amadejaop/github-readme-stats)
+[![Amadeja's GitHub stats](https://github-readme-stats.vercel.app/api?username=amadejaop&show_icons=true&title_color=9a5866&icon_color=9a5866&border_color=b2b1b7&bg_color=f6f6f8&text_color=af5b73&hide=issues,contribs)](https://github.com/amadejaop/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amadejaop&bg_color=ffe9f2&text_color=9b0041&title_color=c20052)](https://github.com/amadejaop/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amadejaop&bg_color=f6f6f8&border_color=b2b1b7&text_color=af5b73&title_color=9a5866)](https://github.com/amadejaop/github-readme-stats)
 
 <!--
 **amadejaop/amadejaop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
