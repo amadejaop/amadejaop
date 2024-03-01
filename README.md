@@ -1,5 +1,5 @@
 ### Hi there 👋
-**I'm a budding junior developer from Slovenia.**
+**I'm a junior developer from Slovenia.**
 
 - Currently learning programming using SkillUp Mentor as well as the Odin Project.
 - Looking to meet and collaborate with others who are passionate about coding.
