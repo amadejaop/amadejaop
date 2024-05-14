@@ -1,9 +1,9 @@
 ### Hi there 👋
-**I'm a junior developer from Slovenia.**
+**I'm a front-end web developer from Slovenia.**
 
-- Currently learning programming using SkillUp Mentor as well as the Odin Project.
+- Currently working on improving my skills by creating projects in React.js and Vue.js.
 - Looking to meet and collaborate with others who are passionate about coding.
-- Other interests include language learning and reading.
+- Other interests include language learning, reading and writing [blog posts](https://medium.com/@obsteter.amadeja).
 - Feel free to send me a message in Slovenian, English or German.
 - Check out my [LinkedIn](https://www.linkedin.com/in/amadejaop/) profile and my [portfolio](https://amadejaop.github.io/).
 
